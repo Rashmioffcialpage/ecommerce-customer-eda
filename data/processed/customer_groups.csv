@@ -1,0 +1,7 @@
+group,customers,median_recency_days,median_frequency,median_signed_value,total_signed_value,customer_share_pct
+No recent invoice,1443,205.0,1.0,338.95,898405.491,33.28719723183391
+Other purchasers,1255,54.0,2.0,669.38,1544439.423,28.95040369088812
+Recent repeat,805,15.0,3.0,869.6800000000001,829400.52,18.569780853517877
+"Recent, frequent, higher value",613,9.0,10.0,3650.87,4947655.33,14.14071510957324
+Recent single invoice,209,19.0,1.0,227.39,64079.3,4.821222606689735
+Nonpositive signed value,10,184.5,1.0,0.0,-1034.27,0.2306805074971165
